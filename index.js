@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Siempre supe que aceptarias bb jaja');
+    //alert('Siempre supe que aceptarias bb jaja');
     alert('TE QUIERO UN MONTÓN 🧡');
 });
 
